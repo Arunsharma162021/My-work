@@ -1,0 +1,8 @@
+colorama
+rich
+cryptography
+pandas
+openpyxl
+pytest
+black
+mypy
